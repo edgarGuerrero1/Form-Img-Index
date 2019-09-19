@@ -1,0 +1,33 @@
+.contenedor{
+	width: 1200px;
+	height: 1200px;
+	background-color: #cdd;
+	
+}
+
+.Cfoto{
+	width: 130px;
+	height: 130px;
+	border: 1px solid blue;
+}
+
+.imgC{
+    text-align: center !important;
+
+}
+img{
+	width: 200px !important;
+	height: 200px !important;
+	margin-top: 20px;
+	border-radius: 6px !important; 
+	background-repeat: no-repeat !important;
+    background-position: 50% !important;
+    border-radius: 50% !important;
+    background-size: 100% auto !important;
+
+}
+
+.nombres{
+	font-size: 30px !important;
+	margin-left: 20px;
+}

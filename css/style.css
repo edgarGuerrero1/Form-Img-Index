@@ -1,0 +1,43 @@
+
+
+
+.contenedor{
+
+	width: auto;
+	height: auto;
+	background-color: #cdd;
+	display: inline-block;
+}
+
+.cont1{
+	width: auto;
+	height: 1200px;
+	background-color: #ff0;
+	display: inline-block;
+
+	margin: 20px 10px;
+
+
+}
+.cont2{
+	width: auto;
+	height: 1200px;
+	background-color: #ff3;
+	display: inline-block;
+	margin: 20px 10px;
+
+}
+.cont3{
+	width: 333px;
+	height: 1200px;
+	background-color: #ff6;
+	display: inline-block;
+	margin: 20px 10px;
+
+}
+
+td img{
+        width: 100px !important;
+        height: 100px !important;
+    }
+
